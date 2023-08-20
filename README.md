@@ -1,6 +1,6 @@
 # basic_website_html
 # Can act as a starting point for a website
-<!doctype html> # Shows that the latest version of html will be used
+<!doctype html> 
 <html>
   <head>
     <title> This is the title of the website that will be seen in the browser </title>
